@@ -1,0 +1,1 @@
+This project aims to be a web based IDE to author next generation HTML5 web apps. It uses GWT and Batik library to author SVG and Canvas drawings and animations.
